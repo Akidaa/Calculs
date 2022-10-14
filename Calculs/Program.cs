@@ -50,7 +50,7 @@ namespace Calculs
                             Console.WriteLine("Faux : " + val1 + " + " + val2 + " = " + solution);
                         }
                     }
-                    else 
+                    else
                     {
                         // choix de la multiplication
                         val1 = rand.Next(1, 10);
